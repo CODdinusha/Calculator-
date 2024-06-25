@@ -33,7 +33,7 @@ To get a local copy up and running, follow these steps:
 1. **Clone the repository**:
     ```bash
     git clone https://github.com/<CODdinusha>/calculator-.git
-    cd react-calculator
+    cd calculator-
     ```
 
 2. **Install dependencies**:
