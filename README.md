@@ -32,7 +32,7 @@ To get a local copy up and running, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/<username>/react-calculator.git
+    git clone https://github.com/<CODdinusha>/calculator-.git
     cd react-calculator
     ```
 
@@ -55,7 +55,7 @@ Once the development server is running, you can access the calculator in your we
 ![Calculator Screenshot 1](./src/ss1.png)
 ![Calculator Screenshot 2](./src/ss2.png)
 
-## Contributing
+<!-- ## Contributing
 
 Contributions are what make the open-source community such an amazing place to be, learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -63,7 +63,7 @@ Contributions are what make the open-source community such an amazing place to b
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+5. Open a Pull Request -->
 
 ## License
 
