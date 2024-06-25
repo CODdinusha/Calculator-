@@ -1,76 +1,76 @@
-<h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a>
-</h2>
-<div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
+# React Calculator
 
-<br/>
+![Calculator Screenshot](./src/ss.png)
 
-<center>
+A simple calculator built with React. This project uses HTML, CSS, and JavaScript to create a functional calculator that performs basic arithmetic operations.
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/soumyajit4419/Portfolio?color=red&logo=github&style=for-the-badge)
+## Table of Contents
 
-</center>
+- [Project Description](#project-description)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Screenshots](#screenshots)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgements](#acknowledgements)
 
-<h3 align="center">
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/soumyajit4419/Portfolio/issues">Request Feature</a>
-</h3>
+## Project Description
 
-## TL;DR
-
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
-
-## Built With
-
-My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
-
-This project was built using these technologies.
-
-- React.js
-- Node.js
-- Express.js
-- CSS3
-- VsCode
-- Vercel
+The React Calculator is a basic calculator application that allows users to perform simple arithmetic operations such as addition, subtraction, multiplication, and division. The project is built using React and showcases the use of components, state, and event handling in React.
 
 ## Features
 
-**📖 Multi-Page Layout**
+- Addition, subtraction, multiplication, and division
+- Clear and delete functionality
+- Responsive design
+- Keyboard support
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
+## Installation
 
-**📱 Fully Responsive**
+To get a local copy up and running, follow these steps:
 
-## Getting Started
+1. **Clone the repository**:
+    ```bash
+    git clone https://github.com/<username>/react-calculator.git
+    cd react-calculator
+    ```
 
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
+2. **Install dependencies**:
+    ```bash
+    npm install
+    ```
 
-## 🛠 Installation and Setup Instructions
+3. **Start the development server**:
+    ```bash
+    npm start
+    ```
 
-1. Installation: `npm install`
+## Usage
 
-2. In the project directory, you can run: `npm start`
+Once the development server is running, you can access the calculator in your web browser at `http://localhost:3000`. Use the calculator by clicking the buttons or using your keyboard.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.
+## Screenshots
 
-## Usage Instructions
+![Calculator Screenshot 1](./src/ss1.png)
+![Calculator Screenshot 2](./src/ss2.png)
 
-Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly.
+## Contributing
 
-### Show your support
+Contributions are what make the open-source community such an amazing place to be, learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-Give a ⭐ if you like this website!
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-<a href="https://www.buymeacoffee.com/soumyajit4419" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+## Acknowledgements
+
+- [React](https://reactjs.org/)
+- [Create React App](https://create-react-app.dev/)
+- [GitHub Pages](https://pages.github.com/)
